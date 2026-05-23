@@ -1,7 +1,10 @@
+// this is the module right here
 module mux2to1(input a, input b, input sel, output y);
     assign y = sel ? b : a;
 endmodule
 
+
+// below this is the test file
 `timescale 1ns/1ns
 
 module mux2to1_tb;
