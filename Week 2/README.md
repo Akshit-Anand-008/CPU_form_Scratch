@@ -7,6 +7,8 @@ In the assignment, you will design and implement several hardware components tha
 
 Note: The material presented here is intended to serve as a concise overview of the topics. It is highly recommended that you read the textbook sections thoroughly for a deeper understanding and additional examples. You are also encouraged to practice beyond the listed exercises to build stronger intuition and familiarity with digital circuit design.
 
+Also, I'll add another markdown file containing some interesting problems
+
 ---
 
 # Circuits
